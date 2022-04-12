@@ -10,4 +10,4 @@ The HMD is tracked by two base stations which allows the subject to move around 
 
 We observed patterns of adaptation that in general are consistent with those we see outside of virtual environments. For example, even with no contextual cues, in immersive virtual reality, subjects adapted more quickly to familiar perturbations--a phenomenon often called savings. The HTC Vive Pro shows promise as a tool to study the various characteristics of motor adaptation, and the programming flexibility of a virtual environment enables a wide range of easily modifiable perturbations and scenarios.
 
-All scripts have been developed for the [Unity Engine](https://unity3d.com/) and [HTC Vive](https://www.vive.com/eu/) with optional [trackers](https://www.vive.com/us/vive-tracker/).
+This has been developed using the [Unity Engine](https://unity3d.com/) and [HTC Vive](https://www.vive.com/eu/) with optional [trackers](https://www.vive.com/us/vive-tracker/).
